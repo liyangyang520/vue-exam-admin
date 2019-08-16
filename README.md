@@ -1,4 +1,4 @@
-# vue-admin-template
+# vue-exam-admin
 vue轻量级后台管理系统基础模板<br>
 [在线预览](https://woai3c.github.io)
 ## 更新
